@@ -1,1 +1,2 @@
-# Computer-Science-2
+## Computer-Science-2
+This was an advanced course on data structures and the design and analysis of algorithms. We developed formal, mathematical techniques for analyzing algorithms in terms of time and space efficiency. We trained our problemsolving skills by designing and implementing efficient solutions to problems in Java. We will also cover recursion,data structures (such as trees (including binary search trees, AVL trees, 2-4 trees, and/or B-trees), skip lists, hashtables, graphs, and a small sampling of probabilistic data structures), sorting algorithms, graph algorithms, and avariety of problem solving techniques including backtracking, divide and conquer, greedy algorithms, and dynamicprogramming.
