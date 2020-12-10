@@ -3,17 +3,17 @@ This was an advanced course on data structures and the design and analysis of al
 
 All the assignments are written in the Java programming language.
 
-### GenericBST
-This assignment was to modify a source file BST.java into a generic java class. This allows us to create a binary search true using whatever data type we want. More information about this assignment can be found in the assignment PDF in the GenericBST folder.
-### RunLikeHell
-This program is recursive solution to take in a 1D array, and find the combinitation with the highest integer value when adding them up. The biggest thing to consider is that you cannot take two integers next to each other. More information about this assignment can be found in the assignment PDF in the RunLikeHell folder.
-### SkipList
-This program is a probabilistic skip list, that has insertion, deletion, and search operation, all while bieng generic. More information about this assignment can be found in the assignment PDF in the SkipList folder.
-### SneakyKnights
-This program checks to see if, with a list of given coordinates, any of the knights are able to attack one another. The tricky part about the assignment is that it must not exceed O(nk) where n is the number of knights and k is the max length of thier coornidate strings. More information about this assignment can be found in the assignment PDF in the SneakyKnights folder.
-### SneakyQueens
-This program checks to see if, with a list of given coordinates, any of the queens are able to attack one another. The tricky part about the assignment is that it must not exceed O(m+n). More information about this assignment can be found in the assignment PDF in the SneakyKnights folder.
-### TopoALLlogical
-This program uses backtracking to find all of the topological sorts for a given graph. I takes in a list of |V| numbers and finds |V|! valid topoligcal sorts. The program must no worse than O(|V|^2). More information about this assignment can be found in the assignment PDF in the TopoALLlogical folder.
-### TopoPaths
-This program determines how many topopaths there are in a given arbitrary graph.(A topopath is an ordering of vertices that are a valid path in a grpah and a valid topological sort.) The solution must be O(|V|^2). More information about this assignment can be found in the TopoPaths folder.
+### Assignment 1
+This assignment was to modify a source file BST.java into a generic java class. This allows us to create a binary search true using whatever data type we want. More information about this assignment can be found in the assignment PDF in the Assignment 1 folder.
+### Assignment 2
+This program is recursive solution to take in a 1D array, and find the combinitation with the highest integer value when adding them up. The biggest thing to consider is that you cannot take two integers next to each other. More information about this assignment can be found in the assignment PDF in the Assignment 2 folder.
+### Assignment 3
+This program is a probabilistic skip list, that has insertion, deletion, and search operation, all while bieng generic. More information about this assignment can be found in the assignment PDF in the Assignment 3 folder.
+### Assignment 4
+This program checks to see if, with a list of given coordinates, any of the knights are able to attack one another. The tricky part about the assignment is that it must not exceed O(nk) where n is the number of knights and k is the max length of thier coornidate strings. More information about this assignment can be found in the assignment PDF in the Assignment 4 folder.
+### Assignment 5
+This program checks to see if, with a list of given coordinates, any of the queens are able to attack one another. The tricky part about the assignment is that it must not exceed O(m+n). More information about this assignment can be found in the assignment PDF in the Assignment 5 folder.
+### Assignment 6
+This program uses backtracking to find all of the topological sorts for a given graph. I takes in a list of |V| numbers and finds |V|! valid topoligcal sorts. The program must no worse than O(|V|^2). More information about this assignment can be found in the assignment PDF in the Assignment 6 folder.
+### Assignment 7
+This program determines how many topopaths there are in a given arbitrary graph.(A topopath is an ordering of vertices that are a valid path in a grpah and a valid topological sort.) The solution must be O(|V|^2). More information about this assignment can be found in the Assignment 7 folder.
